@@ -13,7 +13,7 @@ On the 2nd Array add objects
 
 
 {
-    "STUDENT": 
+    "student": 
     [
         {
             "Name": "Xena Princess Moriell Jumamil",
@@ -23,12 +23,12 @@ On the 2nd Array add objects
     ],
     
     
-    "SCHOOL INFORMATION": 
+    "details": 
     [
         {
-            "Class Section": "T90",
-            "Section Code": "CC 131",
-            "BukSU Email": "2001101436@student.buksu.edu.ph"
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001101436@student.buksu.edu.ph"
         }
         
     ]
