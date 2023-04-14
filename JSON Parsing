@@ -1,0 +1,35 @@
+/* Two JSON Arrays
+
+On the 1st Array add objects
+   Name: FULL_NAME
+   Age: AGE
+   Favorite Quotes: YOUR_QUOTES
+
+
+On the 2nd Array add objects
+   Class Section: SECTION
+   Section Code: CODE
+   Buksu Email: EMAIL */
+
+
+{
+    "STUDENT": 
+    [
+        {
+            "Name": "Xena Princess Moriell Jumamil",
+            "Age": "21",
+            "Favorite Quote": "“Keep the past, for all intents and purposes, where it is.” – Rintaro Okabe"
+        }
+    ],
+    
+    
+    "SCHOOL INFORMATION": 
+    [
+        {
+            "Class Section": "T90",
+            "Section Code": "CC 131",
+            "BukSU Email": "2001101436@student.buksu.edu.ph"
+        }
+        
+    ]
+}
